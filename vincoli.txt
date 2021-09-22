@@ -1,0 +1,5 @@
+roa 10.0
+roe 10.0
+roi 10.0
+deb_eq 1.0
+revenue 0.75
