@@ -5,15 +5,6 @@ Created on Tue Sep 15 23:17:10 2020
 @author: Christian
 """
 """
-appreso:
-    -array, liste, tuple
-    -classi
-    -funzioni
-    -web scraping con pacchetti selenium e bs4
-    -for loop
-    -gestione file
-    -deep e shallow copy con pacchetto copy
-    -moduli
 da fare:
     -inserisci EBIT/(Interest Expense), the bigger the better, ma sicuramente 
      non minore di 2
@@ -22,7 +13,7 @@ da fare:
     -capire cosa puoi metterci di analisi dati
 idee:
     -metterci qualche ordinamento
-    -la possibilità di aggiungere su file un recordo con una nuova azione
+    -la possibilità di aggiungere su file un record con una nuova azione
         -mantenere l'ordine alfabetico
 """
 
